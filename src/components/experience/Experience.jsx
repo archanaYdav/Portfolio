@@ -60,6 +60,10 @@ function Experience(props) {
                             <BsPatchCheckFill className="experience__details-icons"/>
                             <h4>REST APIs</h4>
                         </article>
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className="experience__details-icons"/>
+                            <h4>Authentication</h4>
+                        </article>
                     </div>
                 </div>
             </div>

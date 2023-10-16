@@ -49,6 +49,8 @@ header{
 
 .me img{
     object-fit: cover;
+    border-top-left-radius: 12rem;
+    border-top-right-radius: 12rem;
 }
 .scroll__down{
     position: absolute;

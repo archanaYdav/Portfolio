@@ -34,15 +34,9 @@ const form = useRef();
                         <a href='mailto:archna20001@gmail.com'>Send a Message</a>
                     </article>
                     <article className='contact__option'>
-                        <RiMessengerLine className='contact__option-icon'/>
-                        <h4>Messanger</h4>
-                        <h5>Archana Ydv</h5>
-                        <a href='https://www.facebook.com/'>Send a Message</a>
-                    </article>
-                    <article className='contact__option'>
                         <BsWhatsapp className='contact__option-icon' />
                         <h4>Whatsapp</h4>
-                        <h5>+432423424324</h5>
+                        <h5>+91 8595124653</h5>
                         <a href='https://api.whatsapp.com/send?phone=+243411234434' target="_blank">Send a Message</a>
                     </article>
                 </div>
